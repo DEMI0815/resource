@@ -162,7 +162,7 @@
     }, {
         "name": "美食",
         "id": "91_hot",
-        "subtopic": {
+        "subtopic": [{
             "title": "#不可辜负的美食#",
             "image": "https:\/\/wx3.sinaimg.cn\/large\/005IOszmly1gby5uaydfoj30dw0dwwgl.jpg"
         }, {
